@@ -19,6 +19,8 @@ npm start
 3. Go to [http://localhost:4242/checkout.html](http://localhost:4242/checkout.html)
 
 
-### Note Oct 22, the example requires:
+### Notes Oct 22, 
+ExpressJS/Stripe example
+it requires:
 1. that you have a stripe account name set.
 2. that you use the line-items with price data
